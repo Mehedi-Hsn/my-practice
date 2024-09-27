@@ -1,2 +1,1 @@
-# my-practice
-# my-practice
+This is my first website sample
